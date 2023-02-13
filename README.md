@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m a student
-<hr/>[
+<hr/>
 ![tragiang.35386968's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TraGiang1002&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <h2>My Project:</h2>
