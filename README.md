@@ -2,7 +2,9 @@
 
 - 🌱 I’m a student
 <hr/>
-![tragiang.35386968's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TraGiang1002&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+<div>
+  ![tragiang.35386968's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TraGiang1002&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+</div>
 
 <h2>My Project:</h2>
 <a href="https://github.com/TraGiang1002/JS">
