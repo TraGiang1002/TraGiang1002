@@ -23,3 +23,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=rabiloo_test&theme=dark" />
 </a>
+<a href="https://github.com/TraGiang1002/Notion_app">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=Notion_app&theme=dark" />
+</a>
