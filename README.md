@@ -7,6 +7,7 @@
   <tr>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=TraGiang1002&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" alt="TraGiang1002" width="60%"/>
   </tr>
+  <br/>
   <tr>
     <br/>
     <h2>My Project:</h2>
