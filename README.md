@@ -4,7 +4,7 @@
 <hr/>
 <table style="width:100%;">
   <tr>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=tathanhdatt&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="tathanhdatt" width="60%"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=TraGiang1002&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="TraGiang1002" width="60%"/>
   </tr>
 </table>
 
