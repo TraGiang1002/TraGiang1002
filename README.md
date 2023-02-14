@@ -8,7 +8,7 @@
   </div>
 </table>
 
-<br/>
+<hr/>
 <h2>My Project:</h2>
 <a href="https://github.com/TraGiang1002/JS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
