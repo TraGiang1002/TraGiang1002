@@ -23,9 +23,9 @@
 </a>
 <a href="https://github.com/TraGiang1002/rabiloo_test">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=rabiloo_test&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=rabiloo_test&theme=tokyonight" />
 </a>
 <a href="https://github.com/TraGiang1002/rabiloo_test">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=Notion_app&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=Notion_app&theme=tokyonight" />
 </a> 
