@@ -2,9 +2,7 @@
 
 - 🌱 I’m a student
 <hr/>
-<a style="display: block;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TraGiang1002&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" alt="TraGiang1002" width="60%"/>
-</a>
+
 <table style="width:100%;">
   <tr>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=TraGiang1002&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" alt="TraGiang1002" width="60%"/>
