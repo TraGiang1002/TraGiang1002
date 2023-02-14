@@ -2,12 +2,11 @@
 
 - 🌱 I’m a student
 <hr/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=TraGiang1002&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" alt="TraGiang1002" width="60%"/>
+<img style="display: block;" align="left" src="https://github-readme-stats.vercel.app/api?username=TraGiang1002&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" alt="TraGiang1002" width="60%"/>
 <br/>
 <table style="width:100%;">
   <tr>
-    <br/>
-    <h2 style="display: block">My Project:</h2>
+    <h2 style="display: block;">My Project:</h2>
     <a href="https://github.com/TraGiang1002/JS">
       <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=JS&theme=dark" />
