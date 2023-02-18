@@ -5,7 +5,8 @@
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TraGiang1002&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
 </p>
-<h2>My Project:</h2><a href="https://github.com/TraGiang1002/JS">
+<h2>My Project:</h2>
+<a href="https://github.com/TraGiang1002/JS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=JS&theme=algolia" />
 </a>
@@ -29,3 +30,4 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=Notion_app&theme=tokyonight" />
 </a> 
+<h2>My subject</h2>
