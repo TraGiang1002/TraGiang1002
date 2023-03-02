@@ -2,7 +2,7 @@
 
 - 🌱 I’m a student
 <hr/>
-<a href="https://leetcode.com/TraGiang1002/"><img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png"/>LeetCode</a>
+<a href="https://leetcode.com/TraGiang1002/"><img font-size="20px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png"/>LeetCode</a>
 <a href="https://www.kaggle.com/tragiangnguyen">Kaggle</a>
 <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TraGiang1002&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
