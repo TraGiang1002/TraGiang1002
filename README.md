@@ -18,7 +18,7 @@
 </a>
 <a href="https://github.com/TraGiang1002/movie_app">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=movie_app&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=movie_app&theme=chartreuse-dark" />
 </a>
 <h2>My subject</h2>
 <a href="https://github.com/TraGiang1002/JS">
