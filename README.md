@@ -8,6 +8,7 @@
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TraGiang1002&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
 </p>
 <h2>My Project:</h2>
+<h3>Project Backend</h3>
 <a href="https://github.com/TraGiang1002/nodejs_blog">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=nodejs_blog&theme=vue-dark" />
@@ -24,6 +25,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=Notebox_app&theme=chartreuse-dark" />
 </a>
+<h3>Project AI</h3>
 <h2>My subject</h2>
 <a href="https://github.com/TraGiang1002/JS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
