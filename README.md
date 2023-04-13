@@ -19,6 +19,7 @@
 </a>
 <h3>Project AI</h3>
 <a href="https://colab.research.google.com/drive/1LpktXQEbKypsehRbX4f7GsTPdltLN0_Y?usp=sharing">voice-commands</a>
+<a>eng-vi-transformer</a>
 <h2>My subject</h2>
 <a href="https://github.com/TraGiang1002/JS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
