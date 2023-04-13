@@ -20,7 +20,7 @@
 <h3>Project AI</h3>
 <p>p/s: I'm non-AI for NLP</p>
 <a href="https://colab.research.google.com/drive/1LpktXQEbKypsehRbX4f7GsTPdltLN0_Y?usp=sharing">voice-commands</a><br/>
-<a>eng-vi-transformer</a>
+<a>eng-vi-translate</a>
 <h2>My subject</h2>
 <a href="https://github.com/TraGiang1002/JS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
