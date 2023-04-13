@@ -3,10 +3,10 @@
 - 🌱 I’m a student
 <hr/>
 <a href="https://leetcode.com/TraGiang1002/">LeetCode</a>
-<a href="https://www.kaggle.com/tragiangnguyen">Kaggle</a>
-<p align="center" href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://www.kaggle.com/tragiangnguyen">Kaggle</a> -->
+<!-- <p align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TraGiang1002&show_icons=true&theme=tokyonight&hide=contribs,prs,issues" />
-</p>
+</p> -->
 <h2>My Project:</h2>
 <h3>Project Backend</h3>
 <a href="https://github.com/TraGiang1002/nodejs_blog">
