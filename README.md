@@ -13,9 +13,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=nodejs_blog&theme=vue-dark" />
 </a>
-<a href="https://github.com/TraGiang1002/instagram-ui">
+<a href="https://github.com/TraGiang1002/Dr_app">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=instagram-ui&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=dr_app&theme=vue-dark" />
 </a>
 <h3>Project AI</h3>
 <a href="https://colab.research.google.com/drive/1LpktXQEbKypsehRbX4f7GsTPdltLN0_Y?usp=sharing">voice-commands</a>
