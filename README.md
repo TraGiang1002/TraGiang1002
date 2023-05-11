@@ -17,12 +17,6 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=dr_app&theme=vue-dark" />
 </a>
-<h3>Project AI</h3>
-<p>p/s: I'm non-AI for NLP</p>
-<a href="https://github.com/TraGiang1002/en-vi-translate_app">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TraGiang1002&repo=en-vi-translate_app&theme=algolia" />
-</a>
 <h2>My subject</h2>
 <a href="https://github.com/TraGiang1002/JS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
